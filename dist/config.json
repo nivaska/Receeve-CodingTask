@@ -1,0 +1,15 @@
+{
+    "Mailgun": {
+        "SigningKey": ""
+    },
+    "AWS": {
+        "S3": {
+            "AccessKeyId": "",
+            "SecretAccessKey": "",
+            "BucketName": ""
+        },
+        "SNS": {
+            "TopicArn": "" // SNS Topic ARN
+        }
+    }
+}
